@@ -3,6 +3,10 @@
 
 ![GUI](https://github.com/b8ff/b8ff/blob/main/Images/FoxESP/FoxESP_Rounded_2.png?raw=true)
 
+> **Note**
+>
+> Some scripts can have additional features such as Fullbright.
+
 ---
 
 ### Usage
@@ -18,6 +22,13 @@
 **If you want to contribute to this project upload your scripts to the OHR Discord server and wait for approval.**
 
 **Discord:** *https://discord.gg/BF8yG5S9FC*
+
+---
+
+### Obfuscation
+**FoxESP scripts are obfuscated using Boronide.**
+
+**Boronide:** *https://discord.gg/boronide*
 
 ---
 
