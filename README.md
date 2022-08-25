@@ -9,6 +9,11 @@
 
 ---
 
+### Quality
+**FoxESP is made to be simple and easy to make/update, so don't expect a super high quality ESP.**
+
+---
+
 ### Usage
 **These scripts have been tested only using KRNL (Free Executor)**
 
