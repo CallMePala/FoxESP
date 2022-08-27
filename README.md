@@ -30,13 +30,6 @@
 
 ---
 
-### Obfuscation
-**FoxESP scripts are obfuscated using Boronide.**
-
-**Boronide:** *https://discord.gg/boronide*
-
----
-
 ### Disclaimer
 > **Warning**
 >
